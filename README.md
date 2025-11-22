@@ -110,7 +110,7 @@ I’m a 3rd-year B.Tech (CSE) student specializing in Data Science at BIT, Gorak
   <a href="YOUR_WEBSITE_LINK">
     <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
   </a>
-  <a href="YOUR_KAGGLE_LINK">
+  <a href="https://www.kaggle.com/">
     <img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
   <a href="https://x.com/AditiSriva70176?t=QOSDSHaSZRiDCg2_emE9Ug&s=09">
