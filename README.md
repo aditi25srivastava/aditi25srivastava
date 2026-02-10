@@ -86,9 +86,11 @@ I’m a 3rd-year B.Tech (CSE) student specializing in Data Science at BIT, Gorak
 
 </div>
 
+<h2 align="center">🚀 GitHub Space Shooter</h2>
 
-
-
+<div align="center">
+  <img src="./game.gif" alt="GitHub Space Shooter Game" width="1000"/>
+</div>
 
 <br><br>
 
