@@ -119,7 +119,7 @@ I’m a 3rd-year B.Tech (CSE) student specializing in Data Science at BIT, Gorak
 </div>
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/c5762f16c493170e16f828186322fece09068561a4b745b8817396de0bc6ebfd/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732d73616c65737030372e76657263656c2e6170702f3f757365723d4f6d6b6172546970756761646526636f756e745f707269766174653d74727565267468656d653d726561637426626f726465725f7261646975733d3130" alt="GitHub Streak" width="1000" height="350"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="GitHub Streak" width="1000" height="350"/>
 </div>
 
 <br><br>
