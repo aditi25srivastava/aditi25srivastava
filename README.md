@@ -63,7 +63,6 @@ I’m a 3rd-year B.Tech (CSE) student specializing in Data Science at BIT, Gorak
     </td>
   </tr>
 </table>
-
 </div>
 
 <br><br>  <!-- Adds extra space below the stats section -->
@@ -75,7 +74,6 @@ I’m a 3rd-year B.Tech (CSE) student specializing in Data Science at BIT, Gorak
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Aditisrivastava_25)
 [![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aditi_25srivatava/)
-
 
 </div>
 
