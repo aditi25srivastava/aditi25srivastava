@@ -10,7 +10,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80" height="55"/>
 </p>
 
-I’m a 3rd-year B.Tech (CSE) student specializing in Data Science at BIT, Gorakhpur ’27.🏛️ Passionate about building intelligent systems that make a real-world impact 🔰. Experienced in AI, data visualization, and full-stack development, I love turning ideas into innovative digital products 💡.I’m currently sharpening my Data Structures and Algorithms skills (Python), exploring advanced Data Analytics, and preparing for top-tier tech roles.✨ Apart from that, I enjoy guiding and mentoring newcomers in technology 👨🏻‍💻....
+I’m a 3rd-year B.Tech (CSE) student specializing in Data Science at BIT, Gorakhpur ’27.🏛️ Passionate about building intelligent systems that make a real-world impact 🔰. Experienced in AI, data visualization, and full-stack development, I love turning ideas into innovative digital products 💡.I’m currently sharpening my Data Structures and Algorithms skills (Python), exploring advanced Data Analytics, and preparing for top-tier tech roles.✨ Apart from that, I enjoy guiding and mentoring newcomers in technology 👨🏻‍💻.....
 </div>
 
 ![Learning GIF](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
