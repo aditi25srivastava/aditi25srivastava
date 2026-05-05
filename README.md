@@ -80,7 +80,7 @@ I’m a 3rd-year B.Tech (CSE) student specializing in Data Science at BIT, Gorak
 <br><br>
 <div align="center">
 
-<img src="https://media1.tenor.com/m/8ws92KXBoDsAAAAC/pasha-turn-on-the-server-pls-minecraft.gif" width="500" height="700" alt="Pasha Turn On The Server Pls" />
+<img src="https://media1.tenor.com/m/8ws92KXBoDsAAAAC/pasha-turn-on-the-server-pls-minecraft.gif" width="500" height="500" alt="Pasha Turn On The Server Pls" />
 
 </div>
 
