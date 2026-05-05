@@ -53,16 +53,9 @@ I’m a 3rd-year B.Tech (CSE) student specializing in Data Science at BIT, Gorak
   
  ## 🪸 My GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=aditi25srivastava&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditi25srivastava&layout=compact&theme=radical" />
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{aditi25srivastava}"/>
+</a>
 </div>
 
 <br><br>  <!-- Adds extra space below the stats section -->
