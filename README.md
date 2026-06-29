@@ -66,7 +66,7 @@ I’m a final-year B.Tech (CSE) student specializing in Data Science at BIT, Gor
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/aditi_25srivatava?theme=dark&font=Karma&ext=heatmap" width="950"/>
+<img src="https://leetcard.jacoblin.cool/aditi_25srivatava?theme=dark&font=Karma&ext=heatmap" width="600"/>
 
 </div>
 <br><br>  <!-- Adds extra space below the stats section -->
