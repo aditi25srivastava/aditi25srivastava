@@ -49,15 +49,26 @@ I’m a final-year B.Tech (CSE) student specializing in Data Science at BIT, Gor
 
 <br><br>
 
+<<div align="center">
+
 <div align="center">
-  
- ## 🪸 My GitHub Stats
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{aditi25srivastava}"/>
-</a>
+<div align="center">
+
+<div align="center">
+
+<h2>🎉 My GitHub Stats</h2>
+
+<p align="center">
+  <<img height="190" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aditi25srivastava&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="190" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aditi25srivastava&layout=compact&theme=tokyonight&hide_border=true"/>
+<br>
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/aditi_25srivatava?theme=dark&font=Karma&ext=heatmap" width="950"/>
+
 </div>
-
 <br><br>  <!-- Adds extra space below the stats section -->
 
 
