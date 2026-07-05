@@ -111,7 +111,7 @@ I’m a final-year B.Tech (CSE) student specializing in Data Science at BIT, Gor
   <a href="https://www.linkedin.com/in/aditi-srivastava-3765ab279/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="YOUR_WEBSITE_LINK">
+  <a href="https://portfolio-nyx-eta.vercel.app/">
     <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
   </a>
   <a href="https://www.kaggle.com/">
