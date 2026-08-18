@@ -103,7 +103,7 @@ Apart from coding, I enjoy contributing to open source, building projects in pub
 
 <div align="center">
 
-[![Aditi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aditi25srivastava&theme=github-compact)](https://github.com/aditi25srivastava)
+<img src="https://komarev.com/ghpvc/?username=aditi25srivastava&label=Profile%20Views&color=blue&style=flat">
 
 </div>
 
