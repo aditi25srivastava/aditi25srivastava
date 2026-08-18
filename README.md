@@ -23,7 +23,7 @@ Apart from coding, I enjoy contributing to open source, building projects in pub
 
 ![Total Contributions](https://komarev.com/ghpvc/?username=aditi25srivastava&color=blue&style=flat&label=Total+Contributions)
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yourusername.aditi25srivastava)
-  ![Profile Views](https://komarev.com/ghpvc/?username=aditi25srivastava&color=blue)
+  ![Profile Views](https://komarev.com/ghpvc/?username=aditi25srivastava&color=blue&style=flat&label=Profile+Views)
   [![Portfolio](https://img.shields.io/badge/Portfolio-visit-green)](https://https://aditi25srivastava.github.io/aditi.portfolio.github.io/.com)
 </div>
 
