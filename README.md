@@ -21,15 +21,23 @@ Apart from coding, I enjoy contributing to open source, building projects in pub
 
 <div align="center">
 
-![Total Contributions](https://github-readme-stats.vercel.app/api?username=aditi25srivastava&show_icons=true&hide_title=true&hide_rank=true&hide=stars,followers,issues,prs&include_all_commits=true)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=aditi25srivastava&show_icons=true&hide_title=true&hide_rank=true&hide=stars,followers,issues,prs&include_all_commits=true" alt="Total Contributions">
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=aditi25srivastava&color=blue&style=flat&label=Profile+Views)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=aditi25srivastava&color=blue&style=flat&label=Profile+Views" alt="Profile Views">
+</p>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=aditi25srivastava.aditi25srivastava)
+<p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aditi25srivastava.aditi25srivastava" alt="Visitors">
+</p>
 
-<a href="https://portfolio-nyx-eta.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat" alt="Portfolio">
-</a>
+<p>
+  <a href="https://portfolio-nyx-eta.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat" alt="Portfolio">
+  </a>
+</p>
 
 </div>
 
