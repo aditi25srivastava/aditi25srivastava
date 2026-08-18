@@ -105,7 +105,13 @@ Apart from coding, I enjoy contributing to open source, building projects in pub
 
 <br><br>
 
-!![GitHub Streak](https://streak-stats.demolab.com/?user=aditi25srivastava&theme=dark)
+<div align="center">
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=aditi25srivastava&theme=dark" alt="GitHub Streak" />
+</a>
+
+</div>
 
 <div align="center">
   
