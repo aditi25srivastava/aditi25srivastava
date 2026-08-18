@@ -99,7 +99,7 @@ Apart from coding, I enjoy contributing to open source, building projects in pub
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aditi25srivastava&theme=github-compact))
+[![Aditi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aditi25srivastava&theme=github-compact)](https://github.com/aditi25srivastava)
 
 </div>
 
