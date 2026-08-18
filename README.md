@@ -105,7 +105,7 @@ Apart from coding, I enjoy contributing to open source, building projects in pub
 
 <br><br>
 
-[![Aditi Srivastava's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aditi25srivastava&theme=github-compact&height=350)](https://github.com/ashutosh00710/github-readme-activity-graph)
+!![GitHub Streak](https://streak-stats.demolab.com/?user=aditi25srivastava&theme=dark)
 
 <div align="center">
   
