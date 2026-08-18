@@ -101,9 +101,9 @@ Apart from coding, I enjoy contributing to open source, building projects in pub
 
 </div>
 
-<div align="center">
+## 📈 GitHub Contribution Graph
 
-<img src="https://komarev.com/ghpvc/?username=aditi25srivastava&label=Profile%20Views&color=blue&style=flat">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditi25srivastava&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph">
 
 </div>
 
