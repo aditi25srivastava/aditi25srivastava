@@ -21,18 +21,17 @@ Apart from coding, I enjoy contributing to open source, building projects in pub
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=aditi25srivastava&show_icons=true&hide_title=true&hide_rank=true&hide_stars=true&hide_followers=true&hide_issues=true&hide_prs=true&count_private=true&include_all_commits=true&theme=dark" alt="Total Contributions">
+<img src="https://img.shields.io/badge/Total%20Contributions-View-blue?style=flat" alt="Total Contributions">
 
-  <img src="https://komarev.com/ghpvc/?username=aditi25srivastava&style=flat&color=blue&label=Profile%20Views" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=aditi25srivastava&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aditi25srivastava.aditi25srivastava" alt="Visitors">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=aditi25srivastava.aditi25srivastava" alt="Visitors">
 
-  <a href="https://portfolio-nyx-eta.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat" alt="Portfolio">
-  </a>
+<a href="https://portfolio-nyx-eta.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat" alt="Portfolio">
+</a>
 
 </div>
-
 <div align="center">
   
 ## 🛠️ Technology Stack
