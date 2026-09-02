@@ -2,7 +2,7 @@
 ![Banner](https://raw.githubusercontent.com/aditi25srivastava/aditi25srivastava/main/9228d3cb-db76-41c6-ba53-e4855e81c75c.jpg) 
 
 
-hsiosc
+
 </div>
 
 <div align="center">
