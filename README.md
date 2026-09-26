@@ -97,7 +97,7 @@ Apart from coding, I enjoy contributing to open source, building projects in pub
 <br><br>
 <div align="center">
 
-<img src="https://media1.tenor.com/m/8ws92KXBoDsAAAAC/pasha-turn-on-the-server-pls-minecraft.gif" width="500" height="300" alt="Pasha Turn On The Server Pls" />
+<img src="./akaza-infinity-castle.gif" width="500" height="300" alt="Akaza Infinity Castle Anime GIF" />
 
 </div>
 
