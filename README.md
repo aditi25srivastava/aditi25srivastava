@@ -103,17 +103,15 @@ Apart from coding, I enjoy contributing to open source, building projects in pub
 
 <div align="center">
 
+<div align="center">
+
 ## 📈 GitHub Contribution Graph
 
-<a href="https://github.com/aditi25srivastava">
-
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=aditi25srivastava&theme=react-dark&hide_border=true&area=true&radius=10"
+  src="https://github-readme-activity-graph-topaz-one.vercel.app/graph?username=aditi25srivastava&theme=react-dark&hide_border=true&area=true"
   width="100%"
-  alt="GitHub Contribution Graph"
+  alt="Aditi's GitHub Activity Graph"
 />
-
-</a>
 
 </div>
 <br><br>
