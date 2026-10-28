@@ -107,13 +107,19 @@ Apart from coding, I enjoy contributing to open source, building projects in pub
 ## 📈 GitHub Contribution Graph
 
 
+
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=aditi25srivastava&theme=react-dark&hide_border=true&area=true"
-    width="100%"
-    alt="Aditi's GitHub Activity Graph"
-  />
+
+  <a href="https://github.com/aditi25srivastava">
+    <img
+      src="https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=aditi25srivastava&theme=dark&size=large"
+      alt="GitHub Contribution Growth Graph"
+      width="100%"
+    />
+  </a>
+
 </div>
+
 
 <br><br>
 
