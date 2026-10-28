@@ -106,13 +106,15 @@ Apart from coding, I enjoy contributing to open source, building projects in pub
 
 ## 📈 GitHub Contribution Graph
 
-<img
-  src="https://github-readme-activity-graph-topaz-one.vercel.app/graph?username=aditi25srivastava&theme=react-dark&hide_border=true&area=true"
-  width="100%"
-  alt="Aditi's GitHub Activity Graph"
-/>
 
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=aditi25srivastava&theme=react-dark&hide_border=true&area=true"
+    width="100%"
+    alt="Aditi's GitHub Activity Graph"
+  />
 </div>
+
 <br><br>
 
 <div align="center">
