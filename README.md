@@ -88,7 +88,7 @@ Apart from coding, I enjoy contributing to open source, building projects in pub
 
 ## 🎮 Competitive Programming
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Aditisrivastava_25)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/honey25bee)
 [![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aditi_25srivatava/)
 
 </div>
